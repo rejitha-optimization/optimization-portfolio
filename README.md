@@ -16,13 +16,13 @@ scheduling, and energy systems.
 
 ## Project Roadmap
 
-- [ ] Transportation & Assignment Problems
-- [ ] Workforce Scheduling
-- [ ] Vehicle Routing Problem
-- [ ] Facility Location Optimization
-- [ ] Energy Unit Commitment
-- [ ] Stochastic & Robust Optimization
-- [ ] ML + Optimization Pipeline
+- ✅ **Transportation & Assignment Problems** *(Completed)*
+- ⏳ Workforce Scheduling *(In Progress)*
+- ⏳ Vehicle Routing Problem
+- ⏳ Facility Location Optimization
+- ⏳ Energy Unit Commitment
+- ⏳ Stochastic & Robust Optimization
+- ⏳ ML + Optimization Pipeline
 
 Each project will include:
 - Business problem context
