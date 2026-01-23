@@ -1,4 +1,4 @@
-# Transportation & Assignment Problems
+# Transportation Problem
 
 ## Problem Overview
 This project demonstrates the transportation optimization problem, a
@@ -27,7 +27,7 @@ example and the large-scale transportation scenario.
 
 ## Results
 Both CBC and CPLEX return identical optimal objective values, confirming model
-correctness and solver portability across different LP solvers.rs.
+correctness and solver portability across different LP solvers.
 
 ## Insights
 - Transportation problems can be efficiently modeled as linear programs to

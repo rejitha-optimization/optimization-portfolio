@@ -16,8 +16,9 @@ scheduling, and energy systems.
 
 ## Project Roadmap
 
-- ✅ **Transportation & Assignment Problems** *(Completed)*
-- ⏳ Workforce Scheduling *(In Progress)*
+- ✅ **Transportation Problem** *(Completed)*
+- ⏳ Assignment Problem *(In Progress)*
+- ⏳ Workforce Scheduling 
 - ⏳ Vehicle Routing Problem
 - ⏳ Facility Location Optimization
 - ⏳ Energy Unit Commitment
