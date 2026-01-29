@@ -16,13 +16,13 @@ scheduling, and energy systems.
 
 ## Completed Projects
 
-### ✅ 00. Transportation Problem
+### ✅  Transportation Problem
 **Folder:** 00-transportation-problem
 - Linear programming formulation for cost-efficient logistics planning
 - Solved using CBC and CPLEX CE
 - Includes solver comparison and scalability demonstration
 
-### ✅ 01. Assignment Problem
+### ✅  Assignment Problem
 **Folder:** 01-assignment-problem
 - MILP model for cost-optimal worker to task allocation problem
 - Implemented in Pyomo with CBC and CPLEX CE solvers
