@@ -14,20 +14,27 @@ scheduling, and energy systems.
 - Solvers: CBC, HiGHS, CPLEX (Community Edition), Gurobi (trial)
 - Applications: workforce scheduling, logistics, facility location, energy systems
 
-## Project Roadmap
+## Completed Projects
 
-- ✅ **Transportation Problem** *(Completed)*
-- ⏳ Assignment Problem *(In Progress)*
-- ⏳ Workforce Scheduling 
+### ✅ 00. Transportation Problem
+**Folder:** 00-transportation-problem
+- Linear programming formulation for cost-efficient logistics planning
+- Solved using CBC and CPLEX CE
+- Includes solver comparison and scalability demonstration
+
+### ✅ 01. Assignment Problem
+**Folder:** 01-assignment-problem
+- MILP model for cost-optimal worker to task allocation problem
+- Implemented in Pyomo with CBC and CPLEX CE solvers
+- Includes LP relaxation analysis and large scale assignment scenario
+
+
+## Upcoming Projects
+
+- ⏳ Workforce Scheduling *(In progress)*
 - ⏳ Vehicle Routing Problem
 - ⏳ Facility Location Optimization
 - ⏳ Energy Unit Commitment
 - ⏳ Stochastic & Robust Optimization
 - ⏳ ML + Optimization Pipeline
 
-Each project will include:
-- Business problem context
-- Mathematical formulation
-- Implementation details
-- Results and insights
-- Possible extensions
