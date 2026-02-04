@@ -28,13 +28,18 @@ scheduling, and energy systems.
 - Implemented in Pyomo with CBC and CPLEX CE solvers
 - Includes LP relaxation analysis and large scale assignment scenario
 
+### ✅  Workforce Scheduling
+**Folder:** 02-workforce-scheduling
+- Binary MILP model for assigning workers to shifts
+- Enforces staff requirements, skill requirements, availability and assignment constraints as hard constraints
+- Incorporates soft constraints to improve schedule quality using worker preferences and fairness considerations
 
 ## Upcoming Projects
 
-- ⏳ Workforce Scheduling *(In progress)*
-- ⏳ Vehicle Routing Problem
+- ⏳ Vehicle Routing Problem *(In progress)*
 - ⏳ Facility Location Optimization
 - ⏳ Energy Unit Commitment
 - ⏳ Stochastic & Robust Optimization
 - ⏳ ML + Optimization Pipeline
+
 
