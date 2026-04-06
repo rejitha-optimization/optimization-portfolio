@@ -43,7 +43,6 @@ scheduling, and energy systems.
 ## Upcoming Projects
 
 - ⏳ Vehicle Routing Problem *(In progress)*
-- ⏳ Facility Location Optimization
 - ⏳ Energy Unit Commitment
 - ⏳ Stochastic & Robust Optimization
 - ⏳ ML + Optimization Pipeline
