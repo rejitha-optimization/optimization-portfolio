@@ -34,6 +34,12 @@ scheduling, and energy systems.
 - Enforces staff requirements, skill requirements, availability and assignment constraints as hard constraints
 - Incorporates soft constraints to improve schedule quality using worker preferences and fairness considerations
 
+### ✅  Facility Location Problem
+**Folder:** 03-facility-location-problem
+- Modeled a facility location problem as a MILP to optimally select the facilities to open and assign to customer demand while minimizing total cost
+- Built a scalable Pyomo solution with data generation and visualization.
+- Analyzed LP relaxation vs MILP, demonstrating the gap between theoretical lower bounds and practical, implementable decisions in optimization.
+
 ## Upcoming Projects
 
 - ⏳ Vehicle Routing Problem *(In progress)*
